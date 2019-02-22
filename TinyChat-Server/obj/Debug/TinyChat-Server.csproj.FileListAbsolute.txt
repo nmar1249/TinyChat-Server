@@ -1,0 +1,6 @@
+E:\Documents\GitHub\TinyChat-Server\TinyChat-Server\bin\Debug\TinyChat-Server.exe.config
+E:\Documents\GitHub\TinyChat-Server\TinyChat-Server\bin\Debug\TinyChat-Server.exe
+E:\Documents\GitHub\TinyChat-Server\TinyChat-Server\bin\Debug\TinyChat-Server.pdb
+E:\Documents\GitHub\TinyChat-Server\TinyChat-Server\obj\Debug\TinyChat-Server.csprojResolveAssemblyReference.cache
+E:\Documents\GitHub\TinyChat-Server\TinyChat-Server\obj\Debug\TinyChat-Server.exe
+E:\Documents\GitHub\TinyChat-Server\TinyChat-Server\obj\Debug\TinyChat-Server.pdb
